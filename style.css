@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Kurale&family=Lora:ital@1&display=swap');
+html{
+    display: block;
+}
+.one{
+    margin:0px;
+    background-image: url(1458067451181474389.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    position: relative;
+    top:-30px;
+}
+.main{
+    position:relative;
+    top:100px;
+    width:1200px;
+    left:320px;
+}
+.menu{
+    width:auto;
+    background-color:#9cacbf;
+    height: 70px;
+    display:flex;
+    margin-bottom: 0px;
+
+    
+}
+h1{
+    position: relative;
+    font-family: "Kurale";
+    top:-55px;
+    margin-left:50px;
+    font-size: 60px;
+    color:#032e42;
+
+}
+.text{
+    background-color: #2b4046;
+    margin-top:-60px; 
+    height: 700px;
+}
+.menu_text{
+    font-family: "Lora" , bold;
+    color:#012e67;
+    position: relative;
+    font-size: 40px;
+    text-align: center;
+    top:auto;
+    top:-32px;
+    margin-left: 70px;
+    
+}
+.title{
+    font-family: "Lora";
+    font-size: 60px;
+    text-align: center;
+    color:#f0f0f3;
+    position: relative;
+    top: 50px;
+    
+}
+.info{
+    font-family:"Lora";
+    text-align: center;
+    font-size: 48px;
+    color:#f0f0f3;
+    position: relative;
+    top: 30px;
+}
+footer{
+    background-color: #46899b;
+    height: 130px;
+    position: relative;
+    top: 100px;
+    width: 1200px;
+    left: 320px;
+    display:flex;
+    color:#f0f0f3;
+}
+.contact{
+    margin-left: 70px;
+    font-family: "Lora";
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    top:-20px;
+}
+.not{
+    margin-left: 100px;
+    font-family: "Lora";
+    font-size: 40px;
+    position: relative;
+
+}
+.picture{
+    height: 1200px;
+    background-image: url(main_26331593293_35ea3be88e_b.jpg);
+    background-size: 100%;
+    transition: 0.5s;
+}
+.main1{
+    position:relative;
+    top:100px;
+    width:1200px;
+    left:320px;
+}
+.menu1{
+    width:auto;
+    background-color:#9cacbf;
+    height: 70px;
+    display:flex;
+    margin-bottom: 0px;
+    position:relative;
+    top: -60px;
+}
+.two{
+    margin:0px;
+    background-image: url(1458067451181474389.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    position: relative;
+    top: 100px;
+}
+footer1{
+    background-color: #46899b;
+    height: 130px;
+    position: relative;
+    width: 1200px;
+    left: 320px;
+    display:flex;
+    color:#f0f0f3;
+}
+.title1{
+    font-family: "Kurale";
+    font-size: 60px;
+    text-align: center;
+    color:#f0f0f3;
+    position: relative;
+    top: 20px;
+}
+.text1{
+    height: 2400px;
+    background-color: #2b4046;
+    margin-top:-60px; 
+}
+.biography{
+    font-family:"Lora";
+    text-align: center;
+    font-size: 48px;
+    color:#f0f0f3;
+    position: relative;
+    top: 30px;
+}
+.picture:hover{
+    box-shadow: 0 0 10px;
+    transition: 0.5s;
+}
